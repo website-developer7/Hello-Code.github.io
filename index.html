@@ -1,0 +1,418 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Doctor.Com</title>
+    <link rel="shortcut icon" href="./img/doctor.png" type="image/x-icon">
+    <!-- Start CSS Style -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+        integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+        integrity="sha512-c42qTSw/wPZ3/5LBzD+Bw5f7bSF2oxou6wEb+I/lqeaKV5FDIfMvvRp772y4jcJLKuGUOpbJMdg/BTl50fJYAw=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link rel="stylesheet" href="./css/master.css">
+    <!-- End CSS Style -->
+</head>
+
+<body>
+    <!-- Start Navbar  -->
+    <nav>
+        <div class="logo-website d-flex">
+            <img src="./img/doctor.png" alt="doctor">
+            <h1 class=" fw-bold text-black">doctor.com</h1>
+        </div><!-- logo-website -->
+
+        <span class="btn btn-primary menu-btn" id="menu-btn">
+            <i class="fa-solid fa-bars fa-lg"></i>
+        </span><!-- menu-btn -->
+
+        <ul class="nav-links" id="menu-list">
+            <li class="nav-link"><a href="./index.html">home</a></li>
+            <li class="nav-link"><a href="./Booking.html">Booking</a></li>
+            <li class="nav-link"><a href="#">profile</a></li>
+            <li class="nav-link"><a href="#">register now</a></li>
+            <li class="nav-link"><button type="button"
+                    class="btn btn-outline-danger button-close fw-bolder  position-absolute top-0 end-0 mt-1 me-1"
+                    id="btn-close"><i class="fa-solid fa-circle-xmark"></i></button></li>
+        </ul><!-- nav-links -->
+    </nav>
+    <!-- End Navbar  -->
+    <!-- Start Header -->
+    <header>
+        <div class="slide-contents">
+            <div class="slide">
+                <div class="row">
+                    <div
+                        class="col-md-6 position-absolute z-2 mt-5 p-5 d-flex justify-content-center align-items-center flex-column">
+                        <h2 class="display-1 text-white">booking now with best doctors in egypt</h2>
+                        <a href="./Booking.html" class="btn mt-4 btn-outline-primary text-warning fs-3">booking now</a>
+                    </div>
+                </div>
+            </div><!-- Slide 01 -->
+            <div class="slide">
+                <div class="row">
+                    <div
+                        class="col-md-6 position-absolute z-2 mt-5 p-5 d-flex justify-content-center align-items-center flex-column">
+                        <h2 class=" display-1 text-white">Now know your health condition through Doctor.com</h2>
+                        <a href="#" class="btn mt-4 btn-outline-primary text-warning fs-3">profile</a>
+                    </div>
+                </div>
+            </div><!-- Slide 02 -->
+            <div class="slide">
+                <div class="row">
+                    <div
+                        class="col-md-6 position-absolute z-2 mt-5 p-5 d-flex justify-content-center align-items-center flex-column">
+                        <h2 class="display-1 text-white">departments of community</h2>
+                        <div class="row gap-3">
+                            <div class="col-2">
+                                <img src="./img/surgery.png" class="img-fluid rounded mx-auto d-block" alt="...">
+                            </div>
+                            <div class="col-2">
+                                <img src="./img/mother.png" class="img-fluid rounded mx-auto d-block" alt="...">
+                            </div>
+                            <div class="col-2">
+                                <img src="./img/first-aid-kit.png" class="img-fluid rounded mx-auto d-block" alt="...">
+                            </div>
+                            <div class="col-2">
+                                <img src="./img/children.png" class="img-fluid rounded mx-auto d-block" alt="...">
+                            </div>
+                            <div class="col-2">
+                                <img src="./img/x-ray.png" class="img-fluid rounded mx-auto d-block" alt="...">
+                            </div>
+                            <div class="col-2">
+                                <img src="./img/blood-analysis.png" class="img-fluid rounded mx-auto d-block" alt="...">
+                            </div>
+                            <div class="col-2">
+                                <img src="./img/dentistry.png" class="img-fluid rounded mx-auto d-block" alt="...">
+                            </div>
+                            <div class="col-2">
+                                <img src="./img/eye.png" class="img-fluid rounded mx-auto d-block" alt="...">
+                            </div>
+                            <div class="col-2">
+                                <img src="./img/arthritis.png" class="img-fluid rounded mx-auto d-block" alt="...">
+                            </div>
+                            <div class="col-2">
+                                <img src="./img/stomach.png" class="img-fluid rounded mx-auto d-block" alt="...">
+                            </div>
+                            <div class="col-2">
+                                <img src="./img/neurology.png" class="img-fluid rounded mx-auto d-block" alt="...">
+                            </div>
+                            <div class="col-2">
+                                <img src="./img/face-marking.png" class="img-fluid rounded mx-auto d-block" alt="...">
+                            </div>
+                            <div class="col-2">
+                                <img src="./img/physical-therapy.png" class="img-fluid rounded mx-2 d-block" alt="...">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div><!-- Slide 03 -->
+            <div class="slide mt-5">
+                <div class="row mt-5">
+                    <div
+                        class="col-md-6 position-absolute z-2 mt-5 p-5 d-flex justify-content-center align-items-center flex-column">
+                        <h2 class="display-1 text-white">register now with us</h2>
+                        <a href="#" class="btn mt-4 btn-outline-primary text-warning fs-3">register now</a>
+                    </div>
+                </div>
+            </div><!-- Slide 04 -->
+            <!-- Add more slide as i needed -->
+            <a class="prev" onclick="previousSlides()">&#10094;</a>
+            <a class="next" onclick="nextSlides()">&#10095;</a>
+        </div><!-- slide-contents -->
+    </header>
+    <!-- End Header -->
+    <!-- Start Main-contents -->
+    <main>
+
+        <section class="container mt-5">
+            <h2 class=" fw-bolder display-3 text-white">departments</h2>
+            <div class="row">
+                <div class="col-md-6 col-sm-12">
+                    <div class="card mb-3 shadow-lg" style="max-width: 540px;">
+                        <div class="row g-0">
+                            <div class="col-4">
+                                <img src="./img/surgery.png" class="img-fluid rounded-start" alt="...">
+                            </div>
+                            <div class="col-md-8">
+                                <div class="card-body">
+                                    <h5 class="card-title fs-2 fw-bold text-white">surgery</h5>
+                                    <p class="card-text text-white">Lorem, ipsum dolor sit amet consectetur adipisicing
+                                        elit.
+                                        Reprehenderit amet quaerat iusto quod eius qui, ipsam tempora quisquam sequi
+                                        sunt!</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-sm-12">
+                    <div class="card mb-3 shadow-lg" style="max-width: 540px;">
+                        <div class="row g-0">
+                            <div class="col-4">
+                                <img src="./img/mother.png" class="img-fluid rounded-start" alt="...">
+                            </div>
+                            <div class="col-md-8">
+                                <div class="card-body">
+                                    <h5 class="card-title fs-2 fw-bold text-white">women and maternity</h5>
+                                    <p class="card-text text-white">Lorem ipsum dolor sit amet consectetur adipisicing
+                                        elit. Magnam
+                                        beatae suscipit labore, consectetur quas ut asperiores est repudiandae iste
+                                        provident?</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-sm-12">
+                    <div class="card mb-3 shadow-lg" style="max-width: 540px;">
+                        <div class="row g-0">
+                            <div class="col-4">
+                                <img src="./img/first-aid-kit.png" class="img-fluid rounded-start" alt="...">
+                            </div>
+                            <div class="col-md-8">
+                                <div class="card-body">
+                                    <h5 class="card-title fs-2 fw-bold text-white">internal medicine</h5>
+                                    <p class="card-text text-white">Lorem ipsum dolor sit amet consectetur, adipisicing
+                                        elit. Neque
+                                        voluptate, ut exercitationem ullam distinctio porro nam eligendi maiores culpa
+                                        aut.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-sm-12">
+                    <div class="card mb-3 shadow-lg" style="max-width: 540px;">
+                        <div class="row g-0">
+                            <div class="col-4">
+                                <img src="./img/children.png" class="img-fluid rounded-start" alt="...">
+                            </div>
+                            <div class="col-md-8">
+                                <div class="card-body">
+                                    <h5 class="card-title fs-2 fw-bold text-white">children</h5>
+                                    <p class="card-text text-white">Lorem ipsum dolor sit amet consectetur adipisicing
+                                        elit. Rem
+                                        tenetur numquam distinctio qui impedit at earum fuga exercitationem ullam sint.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-sm-12">
+                    <div class="card mb-3 shadow-lg" style="max-width: 540px;">
+                        <div class="row g-0">
+                            <div class="col-4">
+                                <img src="./img/x-ray.png" class="img-fluid rounded-start" alt="...">
+                            </div>
+                            <div class="col-md-8">
+                                <div class="card-body">
+                                    <h5 class="card-title fs-2 fw-bold text-white">radiology</h5>
+                                    <p class="card-text text-white">Lorem, ipsum dolor sit amet consectetur adipisicing
+                                        elit. At
+                                        porro eligendi quisquam excepturi in quidem necessitatibus amet nostrum facilis
+                                        quasi.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-sm-12">
+                    <div class="card mb-3 shadow-lg" style="max-width: 540px;">
+                        <div class="row g-0">
+                            <div class="col-4">
+                                <img src="./img/blood-analysis.png" class="img-fluid rounded-start" alt="...">
+                            </div>
+                            <div class="col-md-8">
+                                <div class="card-body">
+                                    <h5 class="card-title fs-2 fw-bold text-white">medical analysis</h5>
+                                    <p class="card-text text-white">Lorem ipsum dolor sit amet consectetur adipisicing
+                                        elit.
+                                        Officiis dicta non quo quasi officia tenetur aperiam, omnis laborum distinctio
+                                        itaque?</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-sm-12">
+                    <div class="card mb-3 shadow-lg" style="max-width: 540px;">
+                        <div class="row g-0">
+                            <div class="col-4">
+                                <img src="./img/dentistry.png" class="img-fluid rounded-start" alt="...">
+                            </div>
+                            <div class="col-md-8">
+                                <div class="card-body">
+                                    <h5 class="card-title fs-2 fw-bold text-white">dentistry</h5>
+                                    <p class="card-text text-white">Lorem ipsum dolor sit amet consectetur, adipisicing
+                                        elit. Autem
+                                        in ut sint pariatur aliquid delectus sed at quasi atque eaque.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-sm-12">
+                    <div class="card mb-3 shadow-lg" style="max-width: 540px;">
+                        <div class="row g-0">
+                            <div class="col-4">
+                                <img src="./img/eye.png" class="img-fluid rounded-start" alt="...">
+                            </div>
+                            <div class="col-md-8">
+                                <div class="card-body">
+                                    <h5 class="card-title fs-2 fw-bold text-white">aphthalmology</h5>
+                                    <p class="card-text text-white">Lorem ipsum dolor sit amet consectetur adipisicing
+                                        elit.
+                                        Perspiciatis aut doloribus ut dolor iste quidem dolores hic ipsam excepturi rem?
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-sm-12">
+                    <div class="card mb-3 shadow-lg" style="max-width: 540px;">
+                        <div class="row g-0">
+                            <div class="col-4">
+                                <img src="./img/arthritis.png" class="img-fluid rounded-start" alt="...">
+                            </div>
+                            <div class="col-md-8">
+                                <div class="card-body">
+                                    <h5 class="card-title fs-2 fw-bold text-white">orthopedic</h5>
+                                    <p class="card-text text-white">Lorem ipsum dolor sit amet, consectetur adipisicing
+                                        elit.
+                                        Facere odio quo ex autem minima veritatis magnam nesciunt architecto, eaque
+                                        praesentium!</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-sm-12">
+                    <div class="card mb-3 shadow-lg" style="max-width: 540px;">
+                        <div class="row g-0">
+                            <div class="col-4">
+                                <img src="./img/stomach.png" class="img-fluid rounded-start" alt="...">
+                            </div>
+                            <div class="col-md-8">
+                                <div class="card-body">
+                                    <h5 class="card-title fs-2 fw-bold text-white">gastroenterology</h5>
+                                    <p class="card-text text-white">Lorem ipsum dolor sit amet, consectetur adipisicing
+                                        elit. Alias
+                                        vitae repellendus dolores omnis debitis, cumque voluptatem. Possimus magni
+                                        maiores amet.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-sm-12">
+                    <div class="card mb-3 shadow-lg" style="max-width: 540px;">
+                        <div class="row g-0">
+                            <div class="col-4">
+                                <img src="./img/neurology.png" class="img-fluid rounded-start" alt="...">
+                            </div>
+                            <div class="col-md-8">
+                                <div class="card-body">
+                                    <h5 class="card-title fs-2 fw-bold text-white">neurology</h5>
+                                    <p class="card-text text-white">Lorem ipsum dolor sit amet consectetur, adipisicing
+                                        elit.
+                                        Commodi pariatur eius harum vitae earum est fuga ab obcaecati adipisci
+                                        perspiciatis!</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-sm-12">
+                    <div class="card mb-3 shadow-lg" style="max-width: 540px;">
+                        <div class="row g-0">
+                            <div class="col-4">
+                                <img src="./img/face-marking.png" class="img-fluid rounded-start" alt="...">
+                            </div>
+                            <div class="col-md-8">
+                                <div class="card-body">
+                                    <h5 class="card-title fs-2 fw-bold text-white">plastic surgery</h5>
+                                    <p class="card-text text-white">Lorem ipsum dolor sit amet consectetur adipisicing
+                                        elit. Fuga
+                                        corporis repellat quibusdam obcaecati in autem possimus, esse impedit nemo
+                                        repellendus?</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-sm-12">
+                    <div class="card mb-3 shadow-lg" style="max-width: 540px;">
+                        <div class="row g-0">
+                            <div class="col-4">
+                                <img src="./img/physical-therapy.png" class="img-fluid rounded-start" alt="...">
+                            </div>
+                            <div class="col-md-8">
+                                <div class="card-body">
+                                    <h5 class="card-title fs-2 fw-bold text-white">physiotherapy</h5>
+                                    <p class="card-text text-white">Lorem ipsum dolor, sit amet consectetur adipisicing
+                                        elit. Nobis
+                                        quaerat amet veritatis autem sequi. Minima mollitia voluptas expedita eligendi
+                                        molestias.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+
+    <!-- Start Footer -->
+    <footer>
+        <nav class="navFooter">
+            <ul>
+                <li><a href="./index.html">Home</a></li>
+                <li><a href="./Booking.html">Booking</a></li>
+                <li><a href="#">profile</a></li>
+                <li><a href="#">register</a></li>
+            </ul>
+        </nav><!-- navFooter -->
+        <ul class="icons">
+            <li class="text-danger fs-2 fw-bold">contant us</li>
+            <li><a href="#"><i class="fa-brands fa-facebook"></i></a></li>
+            <li><a href="#"><i class="fa-brands fa-x-twitter"></i></a></li>
+            <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
+            <li><a href="#"><i class="fa-brands fa-youtube"></i></a></li>
+            <li><a href="https://maps.app.goo.gl/2qenQ4BpMGwGyyDz8"><i class="fa-solid fa-location-dot"></i></a></li>
+            <li><a href="mailto:mkids1140@gmail.com"><i class="fa-solid fa-envelope"></i></a></li>
+            <li><a href="tel:+201026055047"><i class="fa-solid fa-phone"></i></a></li>
+        </ul>
+        <p class="text-center fs-3 text-dark">all right reserved &copy; doctor.com <span id="current-year"></span></p>
+    </footer>
+    <!-- End Footer -->
+    <!-- Start JS Files -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+        crossorigin="anonymous"></script>
+    <script src="./js/main.js"></script>
+    <!-- End JS Files -->
+
+</body>
+
+</html>

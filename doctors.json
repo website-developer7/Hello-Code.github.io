@@ -1,0 +1,2084 @@
+{
+  "doctors": [
+    {
+      "id": 1,
+      "name": "Dr. Nour Doe",
+      "department": "Surgery",
+      "price": 3765,
+      "phone": "471-863-3222",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Dr. Michael Lee",
+      "department": "Gastroenterology",
+      "price": 2944,
+      "phone": "157-125-4123",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Dr. Emily Johnson",
+      "department": "Radiology",
+      "price": 751,
+      "phone": "289-947-7268",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Dr. Michael Lee",
+      "department": "Dentistry",
+      "price": 2163,
+      "phone": "468-466-2057",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Dr. Michael Abo Alwafa",
+      "department": "Radiology",
+      "price": 4816,
+      "phone": "581-664-6782",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Dr. Alex Johnson",
+      "department": "Neurology",
+      "price": 199,
+      "phone": "745-765-5382",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Dr. Sarah White",
+      "department": "Medical Analysis",
+      "price": 2701,
+      "phone": "758-504-5421",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Dr. David Smith",
+      "department": "Plastic Surgery",
+      "price": 1281,
+      "phone": "198-922-3845",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Dr. Emily Miller",
+      "department": "Plastic Surgery",
+      "price": 4579,
+      "phone": "688-571-3840",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Dr. Rachel Lee",
+      "department": "Internal Medicine",
+      "price": 3161,
+      "phone": "987-260-6223",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Dr. John White",
+      "department": "Physiotherapy",
+      "price": 3423,
+      "phone": "762-459-2196",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Dr. Nour Johnson",
+      "department": "Surgery",
+      "price": 153,
+      "phone": "857-325-3520",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Dr. Rachel Miller",
+      "department": "Orthopedic",
+      "price": 1589,
+      "phone": "200-627-6440",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Dr. Alex Doe",
+      "department": "Women and Maternity",
+      "price": 4691,
+      "phone": "203-399-8080",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Dr. Nour Miller",
+      "department": "Ophthalmology",
+      "price": 347,
+      "phone": "930-570-8834",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Dr. John Miller",
+      "department": "Radiology",
+      "price": 3634,
+      "phone": "493-606-9094",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Dr. Nour Green",
+      "department": "Plastic Surgery",
+      "price": 443,
+      "phone": "668-544-2641",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Dr. David Miller",
+      "department": "Medical Analysis",
+      "price": 296,
+      "phone": "810-613-8882",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Dr. Nour Johnson",
+      "department": "Women and Maternity",
+      "price": 4193,
+      "phone": "570-227-4517",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Dr. John Smith",
+      "department": "Physiotherapy",
+      "price": 767,
+      "phone": "434-590-6137",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Dr. Sarah Doe",
+      "department": "Plastic Surgery",
+      "price": 904,
+      "phone": "421-979-7250",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Dr. John Abo Alwafa",
+      "department": "Gastroenterology",
+      "price": 3778,
+      "phone": "141-278-1374",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Dr. David Green",
+      "department": "Gastroenterology",
+      "price": 4558,
+      "phone": "158-815-4224",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Dr. Nour Doe",
+      "department": "Neurology",
+      "price": 3437,
+      "phone": "401-243-9830",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Dr. Rachel Smith",
+      "department": "Ophthalmology",
+      "price": 1751,
+      "phone": "767-764-3194",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Dr. Rachel Miller",
+      "department": "Women and Maternity",
+      "price": 2554,
+      "phone": "681-229-2144",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Dr. Sarah White",
+      "department": "Orthopedic",
+      "price": 4005,
+      "phone": "777-632-9189",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Dr. Michael Smith",
+      "department": "Physiotherapy",
+      "price": 1880,
+      "phone": "298-889-9025",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Dr. Emily Doe",
+      "department": "Medical Analysis",
+      "price": 1293,
+      "phone": "186-217-3947",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Dr. Rachel Green",
+      "department": "Gastroenterology",
+      "price": 3451,
+      "phone": "438-505-8187",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Dr. Jane Abo Alwafa",
+      "department": "Surgery",
+      "price": 2547,
+      "phone": "943-671-1928",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Dr. Sarah Brown",
+      "department": "Physiotherapy",
+      "price": 690,
+      "phone": "677-576-4663",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Dr. David Doe",
+      "department": "Plastic Surgery",
+      "price": 630,
+      "phone": "440-688-3493",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Dr. Nour Green",
+      "department": "Physiotherapy",
+      "price": 4224,
+      "phone": "254-113-8724",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Dr. Emily Johnson",
+      "department": "Dentistry",
+      "price": 146,
+      "phone": "497-865-9150",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Dr. Michael Brown",
+      "department": "Plastic Surgery",
+      "price": 3607,
+      "phone": "459-816-7514",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Dr. Sarah Miller",
+      "department": "Dentistry",
+      "price": 3163,
+      "phone": "193-772-8326",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Dr. Nour Green",
+      "department": "Surgery",
+      "price": 809,
+      "phone": "246-649-6690",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Dr. Nour Doe",
+      "department": "Internal Medicine",
+      "price": 3594,
+      "phone": "404-780-3079",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Dr. John Brown",
+      "department": "Radiology",
+      "price": 2100,
+      "phone": "669-890-3757",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Dr. Emily Green",
+      "department": "Ophthalmology",
+      "price": 1393,
+      "phone": "222-451-1499",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Dr. Emily Green",
+      "department": "Physiotherapy",
+      "price": 351,
+      "phone": "802-256-1214",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Dr. Nour Doe",
+      "department": "Surgery",
+      "price": 3598,
+      "phone": "254-902-2239",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Dr. Rachel Abo Alwafa",
+      "department": "Physiotherapy",
+      "price": 3151,
+      "phone": "117-104-2743",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Dr. Emily Lee",
+      "department": "Gastroenterology",
+      "price": 4889,
+      "phone": "943-524-2463",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Dr. John Green",
+      "department": "Plastic Surgery",
+      "price": 2231,
+      "phone": "877-233-1437",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Dr. John Lee",
+      "department": "Physiotherapy",
+      "price": 4952,
+      "phone": "199-907-4404",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Dr. Nour Smith",
+      "department": "Gastroenterology",
+      "price": 2229,
+      "phone": "376-730-7065",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Dr. John Doe",
+      "department": "Plastic Surgery",
+      "price": 3624,
+      "phone": "458-805-5576",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "name": "Dr. John Doe",
+      "department": "Medical Analysis",
+      "price": 2978,
+      "phone": "168-118-4624",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Dr. Rachel Miller",
+      "department": "Physiotherapy",
+      "price": 3190,
+      "phone": "181-506-7735",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Dr. Michael Abo Alwafa",
+      "department": "Women and Maternity",
+      "price": 3520,
+      "phone": "779-169-3101",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Dr. Jane Brown",
+      "department": "Gastroenterology",
+      "price": 3018,
+      "phone": "984-791-2421",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Dr. Sarah Abo Alwafa",
+      "department": "Surgery",
+      "price": 4289,
+      "phone": "497-787-5457",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "name": "Dr. Sarah Brown",
+      "department": "Ophthalmology",
+      "price": 2064,
+      "phone": "279-935-3035",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "name": "Dr. Jane Doe",
+      "department": "Radiology",
+      "price": 2673,
+      "phone": "715-112-3311",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "name": "Dr. Emily Lee",
+      "department": "Neurology",
+      "price": 4460,
+      "phone": "750-885-7095",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "name": "Dr. Rachel Smith",
+      "department": "Neurology",
+      "price": 2682,
+      "phone": "865-725-3390",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "name": "Dr. David Johnson",
+      "department": "Women and Maternity",
+      "price": 496,
+      "phone": "231-444-1726",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "name": "Dr. Nour White",
+      "department": "Radiology",
+      "price": 4124,
+      "phone": "734-537-4661",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "name": "Dr. John Lee",
+      "department": "Women and Maternity",
+      "price": 3063,
+      "phone": "476-685-6529",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "name": "Dr. Jane Miller",
+      "department": "Children",
+      "price": 2672,
+      "phone": "755-496-7171",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "name": "Dr. Michael Smith",
+      "department": "Internal Medicine",
+      "price": 4848,
+      "phone": "147-926-6556",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "name": "Dr. Michael Abo Alwafa",
+      "department": "Ophthalmology",
+      "price": 1148,
+      "phone": "264-702-6764",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "name": "Dr. Rachel Smith",
+      "department": "Radiology",
+      "price": 4986,
+      "phone": "668-640-3962",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "name": "Dr. Jane Abo Alwafa",
+      "department": "Medical Analysis",
+      "price": 737,
+      "phone": "305-794-4746",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "name": "Dr. David Lee",
+      "department": "Neurology",
+      "price": 685,
+      "phone": "873-316-2427",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "name": "Dr. Rachel Smith",
+      "department": "Dentistry",
+      "price": 2887,
+      "phone": "294-762-5887",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "name": "Dr. Michael Smith",
+      "department": "Women and Maternity",
+      "price": 4667,
+      "phone": "906-969-9811",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "name": "Dr. John Lee",
+      "department": "Neurology",
+      "price": 4528,
+      "phone": "105-808-2266",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "name": "Dr. Rachel Miller",
+      "department": "Surgery",
+      "price": 4778,
+      "phone": "408-950-1382",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "name": "Dr. Rachel Brown",
+      "department": "Physiotherapy",
+      "price": 991,
+      "phone": "376-582-6059",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "name": "Dr. Emily White",
+      "department": "Radiology",
+      "price": 4893,
+      "phone": "823-630-8128",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "name": "Dr. Michael Smith",
+      "department": "Children",
+      "price": 838,
+      "phone": "297-455-9505",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "name": "Dr. Alex Lee",
+      "department": "Medical Analysis",
+      "price": 3532,
+      "phone": "570-869-5947",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "name": "Dr. Rachel Doe",
+      "department": "Gastroenterology",
+      "price": 2086,
+      "phone": "112-975-8971",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "name": "Dr. John White",
+      "department": "Gastroenterology",
+      "price": 3726,
+      "phone": "239-487-9362",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "name": "Dr. Sarah Green",
+      "department": "Internal Medicine",
+      "price": 1657,
+      "phone": "228-530-4401",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "name": "Dr. Nour Lee",
+      "department": "Women and Maternity",
+      "price": 1100,
+      "phone": "304-384-9421",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "name": "Dr. Jane Lee",
+      "department": "Surgery",
+      "price": 2902,
+      "phone": "943-687-9840",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "name": "Dr. Michael Smith",
+      "department": "Orthopedic",
+      "price": 1557,
+      "phone": "131-231-1007",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "name": "Dr. Nour Lee",
+      "department": "Medical Analysis",
+      "price": 4285,
+      "phone": "870-162-1556",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "name": "Dr. John Abo Alwafa",
+      "department": "Children",
+      "price": 802,
+      "phone": "192-270-2100",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "name": "Dr. Alex White",
+      "department": "Radiology",
+      "price": 1527,
+      "phone": "440-566-3974",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "name": "Dr. Michael Smith",
+      "department": "Gastroenterology",
+      "price": 4997,
+      "phone": "966-724-2910",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "name": "Dr. Alex Doe",
+      "department": "Radiology",
+      "price": 2052,
+      "phone": "214-170-2649",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "name": "Dr. Rachel Doe",
+      "department": "Ophthalmology",
+      "price": 1005,
+      "phone": "352-933-5444",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "name": "Dr. Michael Miller",
+      "department": "Women and Maternity",
+      "price": 4865,
+      "phone": "877-557-2341",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "name": "Dr. Michael Abo Alwafa",
+      "department": "Radiology",
+      "price": 2372,
+      "phone": "335-813-4936",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "name": "Dr. Alex White",
+      "department": "Orthopedic",
+      "price": 3549,
+      "phone": "617-396-4493",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "name": "Dr. David Brown",
+      "department": "Children",
+      "price": 2953,
+      "phone": "606-526-3606",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "name": "Dr. Rachel Johnson",
+      "department": "Ophthalmology",
+      "price": 4221,
+      "phone": "633-146-1560",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "name": "Dr. Jane Brown",
+      "department": "Ophthalmology",
+      "price": 2617,
+      "phone": "723-198-4397",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "name": "Dr. Nour Doe",
+      "department": "Gastroenterology",
+      "price": 2915,
+      "phone": "117-170-4017",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "name": "Dr. Emily Brown",
+      "department": "Internal Medicine",
+      "price": 4461,
+      "phone": "591-968-6869",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "name": "Dr. Sarah Abo Alwafa",
+      "department": "Ophthalmology",
+      "price": 1158,
+      "phone": "301-879-4202",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "name": "Dr. John Lee",
+      "department": "Orthopedic",
+      "price": 2166,
+      "phone": "915-601-2939",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "name": "Dr. Michael Miller",
+      "department": "Medical Analysis",
+      "price": 2813,
+      "phone": "381-665-2420",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "name": "Dr. Emily Johnson",
+      "department": "Surgery",
+      "price": 3511,
+      "phone": "371-136-8491",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "name": "Dr. Nour White",
+      "department": "Physiotherapy",
+      "price": 2144,
+      "phone": "631-728-4618",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "name": "Dr. Emily Abo Alwafa",
+      "department": "Neurology",
+      "price": 2895,
+      "phone": "416-323-5773",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "name": "Dr. Sarah Lee",
+      "department": "Neurology",
+      "price": 2088,
+      "phone": "636-664-7834",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "name": "Dr. Emily Brown",
+      "department": "Children",
+      "price": 2925,
+      "phone": "880-677-5021",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "name": "Dr. Emily Miller",
+      "department": "Dentistry",
+      "price": 900,
+      "phone": "318-611-5573",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "name": "Dr. Nour White",
+      "department": "Dentistry",
+      "price": 1405,
+      "phone": "370-245-4368",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "name": "Dr. Jane Abo Alwafa",
+      "department": "Women and Maternity",
+      "price": 263,
+      "phone": "486-180-1647",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "name": "Dr. Michael Lee",
+      "department": "Dentistry",
+      "price": 4340,
+      "phone": "253-283-8067",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "name": "Dr. Emily Doe",
+      "department": "Internal Medicine",
+      "price": 4968,
+      "phone": "983-202-5055",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "name": "Dr. Nour Brown",
+      "department": "Ophthalmology",
+      "price": 3595,
+      "phone": "276-320-2415",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "name": "Dr. Rachel Johnson",
+      "department": "Ophthalmology",
+      "price": 417,
+      "phone": "252-997-4734",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "name": "Dr. Michael Green",
+      "department": "Plastic Surgery",
+      "price": 4374,
+      "phone": "485-738-4814",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "name": "Dr. Sarah Lee",
+      "department": "Surgery",
+      "price": 2707,
+      "phone": "344-591-4124",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "name": "Dr. Alex Lee",
+      "department": "Plastic Surgery",
+      "price": 4974,
+      "phone": "239-941-9486",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "name": "Dr. Emily Doe",
+      "department": "Surgery",
+      "price": 232,
+      "phone": "114-732-5404",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "name": "Dr. Jane Brown",
+      "department": "Dentistry",
+      "price": 2243,
+      "phone": "104-755-1220",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "name": "Dr. Nour Smith",
+      "department": "Plastic Surgery",
+      "price": 2623,
+      "phone": "192-457-7412",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "name": "Dr. David Smith",
+      "department": "Dentistry",
+      "price": 151,
+      "phone": "839-582-7352",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "name": "Dr. Alex Green",
+      "department": "Children",
+      "price": 2922,
+      "phone": "240-501-8948",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "name": "Dr. Sarah Lee",
+      "department": "Physiotherapy",
+      "price": 4075,
+      "phone": "695-436-3805",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "name": "Dr. David Green",
+      "department": "Children",
+      "price": 4237,
+      "phone": "496-521-1691",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "name": "Dr. Michael White",
+      "department": "Dentistry",
+      "price": 1178,
+      "phone": "783-400-6744",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "name": "Dr. Emily White",
+      "department": "Orthopedic",
+      "price": 3995,
+      "phone": "772-574-5280",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "name": "Dr. Sarah Smith",
+      "department": "Plastic Surgery",
+      "price": 4130,
+      "phone": "184-543-1060",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "name": "Dr. Sarah Johnson",
+      "department": "Dentistry",
+      "price": 302,
+      "phone": "306-272-7418",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "name": "Dr. Nour Smith",
+      "department": "Neurology",
+      "price": 148,
+      "phone": "893-678-7351",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "name": "Dr. Sarah Doe",
+      "department": "Dentistry",
+      "price": 2659,
+      "phone": "354-630-6389",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 127,
+      "name": "Dr. Michael White",
+      "department": "Women and Maternity",
+      "price": 655,
+      "phone": "632-181-4627",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 128,
+      "name": "Dr. Michael Smith",
+      "department": "Physiotherapy",
+      "price": 4748,
+      "phone": "213-394-7050",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 129,
+      "name": "Dr. Emily Lee",
+      "department": "Gastroenterology",
+      "price": 3044,
+      "phone": "361-541-7812",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 130,
+      "name": "Dr. John White",
+      "department": "Surgery",
+      "price": 933,
+      "phone": "132-441-8601",
+      "availability": [
+        {
+          "date": "2024-01-01 : 2024-12-31",
+          "timeslots": [
+            "6:00 AM - 12:00 PM",
+            "2:00 PM - 10:00 PM"
+          ]
+        }
+      ]
+    }
+  ]
+}
